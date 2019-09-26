@@ -25,5 +25,4 @@ class Contador
     end
 
 end
-
-    
+#####prueba de version 2
